@@ -3,7 +3,15 @@
 ###
 
 
-<img data-importer="image" align="right" height="150" src="https://64.media.tumblr.com/35ba668a405ee7a039e90d0b5964820e/ea69f796cdb7a4d8-21/s640x960/12daf04bdeb9838295873a4967e5a44ac2a3820c.gif"  />
+<img
+  data-importer="image"
+  align="right"
+  width="75"
+  height="75"
+  style="border-radius: 50%; border: 2px solid #30363d; object-fit: cover;"
+  src="https://64.media.tumblr.com/35ba668a405ee7a039e90d0b5964820e/ea69f796cdb7a4d8-21/s640x960/12daf04bdeb9838295873a4967e5a44ac2a3820c.gif"
+  alt="Profile GIF"
+/>
 
 ###
 
